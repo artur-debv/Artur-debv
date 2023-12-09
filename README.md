@@ -7,7 +7,6 @@
   - 🔭 Atualmente estou trabalhando como freelancer ...
   <br>
 - 🌱 Atualmente estou estudando react, typescript, Sass, Tailwind css ...
-  />
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
