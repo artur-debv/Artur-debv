@@ -7,8 +7,6 @@
   - 🔭 Atualmente estou trabalhando como freelancer ...
   <br>
 - 🌱 Atualmente estou estudando react, typescript, Sass, Tailwind css ...
-- 🌱 Quer saber mais sobre meu trabalho : <source
-    srcset="linktr.ee/ojovemtech"
   />
 </div>
 
