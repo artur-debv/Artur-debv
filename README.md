@@ -36,7 +36,7 @@
 </h1>
 
 
-![snake gif](https://github.com/artur-debv/artur-debv/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
